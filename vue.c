@@ -1,10 +1,6 @@
 /*
  * cette vue fabrique l’interface graphique à l’aide
  * de la bibliothèque libsx
- *
- * @author: Vincent GranetVincent.Granet@univ−cotedazur.fr
- * Creation @date: 29−Apr−2020 21:05
- * Last file update: 28−May−2020 11:41
  */
 #include <stdio.h>
 #include <stdlib.h>
