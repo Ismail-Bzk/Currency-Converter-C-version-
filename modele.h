@@ -1,8 +1,4 @@
-/*
- * @author: Vincent GranetVincent.Granet@univ−cotedazur.fr
- * Creation @date: 29−Apr−2020 21:05
- * Last file update: 28−May−2020 10:24
- */
+
 #pragma once
 #include <libsx.h>
 #define TAUXDECHANGE 7.87355 // 1 euros = 7.87355 yuans (27 mai 2020)
